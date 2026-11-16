@@ -1,7 +1,7 @@
 ---
 name: ai-community-prep
 description: "Helps you get ready for each Teays AI Community gathering by keeping a short company card and a share plan. It never sends, uploads or fetches anything."
-version: 2026.11.3
+version: 2026.11.4
 ---
 
 # AI community prep
@@ -16,7 +16,7 @@ At the start of every run, write the five lines below to the participant as one 
 2. Say the never list: "I never send email or messages, never post, never upload or attach files, never fetch web pages, and never write anything outside this conversation. Everything that reaches Remix is text you copy and send yourself."
 3. Say the skip rule: "You can skip any step or any question. Say skip."
 4. Say how to read these instructions: "Open your assistant's skills area, open AI community prep, and read the file; your install note says exactly where."
-5. Say the version line: "You are running AI community prep version 2026.11.3."
+5. Say the version line: "You are running AI community prep version 2026.11.4."
 
 ## Which run is this?
 
@@ -81,10 +81,10 @@ If nothing is connected to you (no files, email or messaging), say so in one lin
 
 ## Build the share
 
-1. Help the participant make one slide, built here in this conversation.
+1. Help the participant build their share here in this conversation. It may be one slide or several. Let what they have to show set the length; do not squeeze it onto one slide. If the brief gives a time limit, keep the share to what fits in it.
 2. If the participant has a branding or slide skill, or a slide template, use it.
-3. If you cannot make slides, write a one-slide text outline: a title, three points, and one ask of the group.
-4. The slide stays in this conversation; the participant copies or downloads it themselves.
+3. If you cannot make slides, write a text outline instead: for each slide, a title and up to three points, ending with one ask of the group.
+4. The slides stay in this conversation; the participant copies or downloads them themselves.
 5. The participant presents the share. Nothing goes to Remix unless they choose to share it.
 
 ## Card refresh
@@ -98,7 +98,7 @@ On later runs, after the share is built. Skip this if you made the card earlier 
 
 ## Before we finish
 
-1. Name what the participant does next, themselves: email the card to Remix if there is a new one, and bring the slide to the session.
+1. Name what the participant does next, themselves: email the card to Remix if there is a new one, and bring the share to the session.
 2. Say: "Nothing was sent to anyone. Anything that reaches Remix, you send yourself."
 
 ## Program sheet

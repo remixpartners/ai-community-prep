@@ -1,8 +1,8 @@
 # AI community prep
 
-A prep helper for the Teays AI Community. Version 2026.11.3.
+A prep helper for the Teays AI Community. Version 2026.11.4.
 
-It is one plain-text file that you add to the AI assistant you already use. Before each session it helps you find the session brief, look over your own recent AI work, answer five short questions, and build one slide to share. The first time, it also helps you fill in a short company card that you email to Remix Partners yourself.
+It is one plain-text file that you add to the AI assistant you already use. Before each session it helps you find the session brief, look over your own recent AI work, answer five short questions, and build your share, one slide or several. The first time, it also helps you fill in a short company card that you email to Remix Partners yourself.
 
 Remix Partners built it for the Teays AI Community. It works in Claude, ChatGPT, Microsoft 365 Copilot and Gemini, and in any assistant where you can paste text.
 
